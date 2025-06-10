@@ -1,3 +1,3 @@
-apt update
-apt install -y curl wget flex bison libxinerama-dev libxcursor-dev libxrandr-dev libxi-dev mesa-common-dev libgl1-mesa-dev gcc-arm-linux-gnueabi libfl-dev bc lz4 gcc libc6-dev build-essential libc6-dev-i386 python3-pip git-lfs python-is-python3 ruby ccache default-jdk libtinfo5 genext2fs u-boot-tools mtools mtd-utils scons gcc-arm-none-eabi
-apt install -y gcc-arm-linux-gnueabi gcc-9-arm-linux-gnueabi  libssl-dev cpio
+apt-get update
+apt-get install -y curl wget flex bison libxinerama-dev libxcursor-dev libxrandr-dev libxi-dev mesa-common-dev libgl1-mesa-dev gcc-arm-linux-gnueabi libfl-dev bc lz4 gcc libc6-dev build-essential libc6-dev-i386 python3-pip git-lfs python-is-python3 ruby ccache default-jdk libtinfo5 genext2fs u-boot-tools mtools mtd-utils scons gcc-arm-none-eabi
+apt-get install -y gcc-arm-linux-gnueabi gcc-9-arm-linux-gnueabi  libssl-dev cpio

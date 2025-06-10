@@ -5,8 +5,8 @@ pip3 install -i https://repo.huaweicloud.com/repository/pypi/simple requests
 echo PATH=~/bin:$PATH >> ~/.bashrc
 source ~/.bashrc
 
-mkdir -p /oh-dev/oh-5.1
-cd /oh-dev/oh-5.1
+mkdir -p ~/oh-5.1
+cd ~/oh-5.1
 git config --global user.email "clangllvm@126.com"
 git config --global user.name "fripSide"
 

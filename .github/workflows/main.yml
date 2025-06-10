@@ -24,7 +24,6 @@ jobs:
       - name: Install dependencies
         run: |
           sudo bash build/install.sh
-          mkdir -p /oh-dev/oh-5.1
 
       - name: Get Source Code
         run: |
